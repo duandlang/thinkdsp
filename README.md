@@ -1,0 +1,2 @@
+# thinkdsp
+study dsp
